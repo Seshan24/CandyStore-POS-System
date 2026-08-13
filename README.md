@@ -151,7 +151,8 @@ Database connection settings should be configured according to the local SQL Ser
 
 **Seshan Rodrigo**
 
-Software Engineering / Computer Science Student
+- LinkedIn: https://www.linkedin.com/in/your-profile
+- GitHub: https://github.com/yourusername
 
 ## 📄 License
 

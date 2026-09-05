@@ -6,6 +6,8 @@ This project is a **C# Windows Forms GUI Application** developed using **Visual 
 
 The application provides a graphical user interface to manage and perform different system functions through Windows Forms.
 
+[![Follow me on GitHub](https://img.shields.io/github/followers/Seshan24?label=Follow%20me%20on%20GitHub&style=social)](https://github.com/Seshan24)
+
 ## 🛠️ Technologies Used
 
 * **C#**

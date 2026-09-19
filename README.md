@@ -156,6 +156,3 @@ Database connection settings should be configured according to the local SQL Ser
 - LinkedIn: https://www.linkedin.com/in/your-profile
 - GitHub: https://github.com/yourusername
 
-## 📄 License
-
-This project was developed for **educational and academic purposes**.

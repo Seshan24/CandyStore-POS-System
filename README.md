@@ -153,8 +153,8 @@ Database connection settings should be configured according to the local SQL Ser
 
 **Seshan Rodrigo**
 
-- LinkedIn: https://www.linkedin.com/in/your-profile
-- GitHub: https://github.com/yourusername
+- LinkedIn: [seshan-rodrigo](https://www.linkedin.com/in/seshan-rodrigo-1279ba2b6/)
+- GitHub: [Seshan24](https://github.com/Seshan24)
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star!
